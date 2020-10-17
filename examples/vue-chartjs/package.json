@@ -1,7 +1,7 @@
 {
   "name": "example-vue-chartjs",
   "dependencies": {
-    "@nuxt/http": "^0.4.0",
+    "@nuxt/http": "^0.5.13",
     "chart.js": "^2.9.3",
     "moment": "^2.24.0",
     "nuxt": "latest",
